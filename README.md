@@ -1,6 +1,6 @@
 # Midnight Warehouse
 **Game Description**  
-*Horror Theme | Puzzle/Adventure*
+*SECURITY Theme | Limitation: On a Schedule / November 21-24 2024*
 
 ## Overview  
 Midnight Warehouse is a first-person puzzle and adventure game set in a creepy, dark warehouse. The player must explore the environment, solve various puzzles, and interact with key objects to progress. It features a variety of tasks, including cleaning oil spills, locating hidden codes, and avoiding dangerous entities like a roaming pig. The ultimate goal is to escape the warehouse.
