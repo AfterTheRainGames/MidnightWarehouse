@@ -53,4 +53,4 @@ Midnight Warehouse was a great exercise in managing a combination of environment
 ---
 
 ## Play the Game  
-[Play Midnight Warehouse on Itch.io](https://aftertheraingames.itch.io/midnight-warehouse)
+[Play Midnight Warehouse on Itch.io](https://aftertheraingames.itch.io/midnightwarehouse)
