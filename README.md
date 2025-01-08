@@ -33,7 +33,7 @@ Midnight Warehouse is a first-person puzzle and adventure game set in a creepy, 
 
 ## Challenges Overcome  
 
-###**Complex Interactions**  
+### **Complex Interactions**  
   - **Issue**: Multiple items and interactions led to confusion and delayed progress.  
     - **Solution**: Developed clear player prompts and event-specific triggers that guide the player without overwhelming them.
 
